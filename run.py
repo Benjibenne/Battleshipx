@@ -38,6 +38,7 @@ def create_board():
         column = input("column (a to d):")
         if column not in "abcd":
             print("That column is wrong! It should be a, b, c, or d")
+        
         row = input("row (1 to 4):")
         if row not in "1234":
             print("That row is wrong! it should be 1, 2, 3, or 4")  
@@ -51,7 +52,6 @@ def create_board():
     if board[row_number][column_number] == 'X':
         print("That spot already has a battleship in it!")
         board[row_number][column_number] = 'X'
-
         # Show the board, one row at a time
         for row in board:
             print(row)  
