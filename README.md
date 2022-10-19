@@ -1,31 +1,28 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Glorious Battleshipx 
 
-Welcome Benjamin Solberg,
+# incomplete project
+- my apologies for my tardiness in finish my 3rd project in python battleship game on the time period this project was indeed an new challenge I tried planning and didnt go furture more into working into an judgable complete project and learned I needed more practice on playing and using the pythons tools to know how to have an idea to work with and sadly all the referens I found I could never understand the language or reasoning on faults and mistakes which took more times. 
 
-This is the Code Institute student template for deploying your third portfolio project, the Python command-line project. The last update to this file was: **August 17, 2021**
+# How to play
+- The goal to how to play was by you guess position by rows and colums such as a/rows and number 4/columns in there own order to take an shot agaisnt computer ships.
+- the game would be you have an 4x4 board which the computer has 5 random placed ship in the board and you got 12 missiles/attempts/guesses. to find all ships until you out of attempts.
+### why 4x4 and why 5 ships with 12 guesses
+- The reason simply put would be it would be an quick game I saw many referens and games I tried which for me feelt to long drawn out and lost it fun momentum if I wanted to learn how to play the game that desire would already been fullfilled with 4 missed shot in an 5x5 and 8x8 board grid size.
 
-## Reminders
+# Features 
+- no complete features to the game created in time sadly atm its just an introduction to welcome the user.
 
-* Your code must be placed in the `run.py` file
-* Your dependencies must be placed in the `requirements.txt` file
-* Do not edit any of the other files or your code may not deploy properly
+# Data Model 
 
-## Creating the Heroku app
+# Testing
+- no test done sadly 
 
-When you create the app, you will need to add two buildpacks from the _Settings_ tab. The ordering is as follows:
+# Bugs 
 
-1. `heroku/python`
-2. `heroku/nodejs`
+# remaining Bugs 
 
-You must then create a _Config Var_ called `PORT`. Set this to `8000`
+# validator Testing 
 
-If you have credentials, such as in the Love Sandwiches project, you must create another _Config Var_ called `CREDS` and paste the JSON into the value field.
+# Deployment
 
-Connect your GitHub repository and deploy as normal.
-
-## Constraints
-
-The deployment terminal is set to 80 columns by 24 rows. That means that each line of text needs to be 80 characters or less otherwise it will be wrapped onto a second line.
-
------
-Happy coding!
+# Credits 
